@@ -6,11 +6,12 @@ WriteBox is a simple, efficient plain-text editor designed for users who need a 
 
 - Lightweight and fast
 - Clean user interface
-- Cross-platform support
 
 ## Installation
 
-WriteBox is ready to use out of the box. Download the latest installer for your platform from the [releases page](https://github.com/FireBlade211/WriteBox/releases), run the executable, follow the steps, and you're good to go!
+WriteBox is ready to use out of the box. Download the latest installer from the [releases page](https://github.com/FireBlade211/WriteBox/releases), run the executable, follow the steps, and you're good to go!
+
+WriteBox is currently only on Windows.
 
 ## Usage
 
@@ -27,7 +28,6 @@ WriteBox is open-source and available under the MIT License. See the [LICENSE](L
 ## Acknowledgements
 
 - Material Symbols by Google
-
 
 ## Contributions
 
